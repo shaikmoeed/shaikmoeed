@@ -4,7 +4,7 @@ I worked as Software Developer(Python), Data Scientist, Machine Learning Enginee
 
 - 👯 I’m looking to collaborate on some great projects!
 - 📫 How to reach me: shaikmoeed29@gmail.com
-
+- What clients think of me? [Here is REVIEWS FROM CLIENTS](https://www.codementor.io/@shaikmoeed98)
 <!--
 **shaikmoeed/shaikmoeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
