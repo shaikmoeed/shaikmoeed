@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<!--
 I worked as Software Developer(Python), Data Scientist, Machine Learning Engineer, feel free to call me any of it 😉. I am happy to contribute in any intersting projects (If you have one, then we together going to celebrate next milestone complition) and on StackOverflow.
+-->
 
 - 👯 I’m looking to collaborate on some great projects!
 - 📫 How to reach me: shaikmoeed29@gmail.com
